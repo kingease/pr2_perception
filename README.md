@@ -52,7 +52,7 @@ for i in range(50):
 clf = svm.SVC(kernel='sigmoid')
 ```
 
-## results
+## Results
 the output files locate in output_files directory. `output_*.yaml` are the required the output file. `model.sav` and `training_set.sav` are generated with sensor\_stick project.
 
 The following are the screen shots in the experiments:
