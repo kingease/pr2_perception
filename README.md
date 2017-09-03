@@ -51,7 +51,7 @@ for i in range(50):
 ```
 clf = svm.SVC(kernel='sigmoid')
 ```
-3. the confuse matrixes are following:
+3. the confusion matrixes are following:
 ![](./pictures/4.png)
 ![](./pictures/5.png)
 ## Results
