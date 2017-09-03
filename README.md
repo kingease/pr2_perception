@@ -51,7 +51,9 @@ for i in range(50):
 ```
 clf = svm.SVC(kernel='sigmoid')
 ```
-
+3. the confuse matrixes are following:
+![](./pictures/4.png)
+![](./pictures/5.png)
 ## Results
 the output files locate in output_files directory. `output_*.yaml` are the required the output file. `model.sav` and `training_set.sav` are generated with sensor\_stick project.
 
